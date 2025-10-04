@@ -1,4 +1,3 @@
-# CSE-Examination
 GPS Tracker (midterm)
 
 What it does
